@@ -2,7 +2,7 @@
 from PIL import Image
 
 # Opens a image in RGB mode
-im = Image.open(r"C:\Users\Aastharaj\Desktop\image.jpg")
+im = Image.open(r"C:\Users\Aastharaj\Desktop\photo-1598755257130-c2aaca1f061c.jpg")
 
 # Size of the image in pixels (size of original image)
 # (This is not mandatory)
